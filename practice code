@@ -1,0 +1,43 @@
+# if 10>5:
+#    print("a is big")
+# else:
+#     print ('b is big')
+  
+
+# a=10
+# if a==10:
+#     print ('correct')
+# else:
+#     print ('wrong')
+
+# even odd
+# num=int(input('enter any number'))
+# if num%2==0:
+#     print('even number')
+# else:
+#     print('odd number')
+    
+
+    #positive and positive number
+'''num=int(input('enter any number'))
+if num>=0:
+    print('positive')
+else:
+    print('negative')'''
+
+
+'''
+#LIST OF DATA STRUCTURE:-
+    Mutable :-  the data type where we can change content
+
+      set , dict, list this are mutable
+      : slow compare immutable data type 
+      : mweomory reqiuired 
+
+    Immutable :- the data type where we can not change content
+
+#Reserved keyword
+import keyword
+print(keyword.kwlist)
+
+'''
